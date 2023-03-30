@@ -1,0 +1,31 @@
+{
+  "max_pass_thresh": 8,
+  "hole_defect": {
+    "weight": 2.5,
+    "threshs": [
+      300,
+      800
+    ]
+  },
+  "wall_defect": {
+    "weight": 2,
+    "threshs": [
+      600,
+      1700
+    ]
+  },
+  "hole_circular_deviation": {
+    "weight": 1.5,
+    "threshs": [
+      50,
+      200
+    ]
+  },
+  "wall_circular_deviation": {
+    "weight": 0.5,
+    "threshs": [
+      25,
+      100
+    ]
+  }
+}
