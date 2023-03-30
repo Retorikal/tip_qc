@@ -61,6 +61,8 @@ Refer to the [example configuration](./config.json).
     Circ: Wall:[Wall circularity deviation score] | Hole:[Hole circularity deviation score]
     ```
 
+    Corrupted images have no output here, but they will show up at the console.
+
 * Console  
     ```
     /.../dataset/5451.png       GO
