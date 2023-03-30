@@ -6,7 +6,7 @@
 
 ### Installation
 
-Download the releases [here](https://github.com/retorikal/tip_qc/releases/latest).
+Download the releases [here](https://github.com/Retorikal/tip_qc/releases/tag/latest).
 * `dist-linux` can be used right away, but is about 267MB in size. Download and extract.
 * (Recommended) `dist-py` or cloning this repo (if `pip` is available):
     ```bash
