@@ -2,7 +2,8 @@
 <!-- ABOUT THE PROJECT -->
 ## Tip QC
 
-![Product Name Screen Shot](./documentations/output/965.png)
+![Product Name Screen Shot](./documentations/output/965.png)  
+*More of these sample output images can be seen at [the documentations](./documentations/output).*
 
 ### Installation
 
