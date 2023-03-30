@@ -116,4 +116,4 @@ This process results in 4 metrics, which could be weighted and summed to decide 
 ## Remarks
 * As a proof of concept, the program's flow is not optimized to handle continuous operation, instead for reading a folder of images and batch-processing them.
 * It is possible to do a full rewrite with OpenCV C++, and possibly quite easily. This is not done from the start to optimize development cycle instead of release performance.
-* The program source code is structured as a [client](./main.py) and [API](./hole_detector.py) model. The API can easily be ported to anothe implementation.
+* The program source code is structured as a [client](./main.py) and [API](./hole_detector.py) model. The API can easily be ported to another implementation.
